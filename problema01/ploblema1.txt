@@ -5,8 +5,9 @@ El área del cuadrado es igual a lado x lado x lado x lado
 El área del triángulo es igual a (base x altura)/2
 El área del rectángulo es igual a base x altura
 */
-1. Inicio
 
+
+1. Inicio
 // Se define la función inicial
 2. funcion principal()
 3.     opcion, i[0-n]
@@ -59,6 +60,5 @@ El área del rectángulo es igual a base x altura
 47.     area <-- base * altura
 48.     Escribir "El área del rectángulo es: " + area
 49. fin funcion obtenerAreaRectangulo
-
 50. Fin
 
