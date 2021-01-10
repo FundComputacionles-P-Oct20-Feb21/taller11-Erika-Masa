@@ -11,7 +11,7 @@ Generar una función que tenga 4 parámetros de tipo decimal y devuelva el prome
  4.		nota2, d[0-n]
  5.		nota3, d[0-n]
  6.		nota4, d[0-n]
- 7.		notaCualitativa
+ 7.		notaCualitativa, x(20)[{a-z}, {BS}]
  8. 	Escribir "ingresar nota 1 : "
  9. 	leer nota1 
  10. 	Escribir "ingresar nota 2 :"
